@@ -5,6 +5,8 @@ Data from https://jsonplaceholder.typicode.com/
 or you can use https://mockend.com to create your own data
 Feel free to use this code as a boilerplate for your projects.
 
+Update for null-safety 2021
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
