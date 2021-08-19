@@ -1,6 +1,7 @@
 # futurebuilderdemo
 
-A new Flutter project.
+To demonstrate FutureBuilder in Flutter. Data from https://jsonplaceholder.typicode.com/posts
+Feel free to use this code as a boilerplate for your projects.
 
 ## Getting Started
 
