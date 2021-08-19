@@ -1,6 +1,8 @@
 # futurebuilderdemo
 
-To demonstrate FutureBuilder in Flutter. Data from https://jsonplaceholder.typicode.com/
+To demonstrate FutureBuilder in Flutter. 
+Data from https://jsonplaceholder.typicode.com/
+or you can use https://mockend.com to create your own data
 Feel free to use this code as a boilerplate for your projects.
 
 ## Getting Started
